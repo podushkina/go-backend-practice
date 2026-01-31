@@ -14,12 +14,16 @@ Telegram-бот для управления задачами, написанны
 ### 1. Интерфейс в Telegram
 Взаимодействие с ботом: создание задач, назначение (`/assign`) и выполнение (`/resolve`).
 
-![Демо чата](assets/demo-chat.jpg)
+<p align="center">
+  <img src="assets/demo-chat.jpg" width="450" title="Демо чата в Telegram">
+</p>
 
 ### 2. Логи сервера
 Обработка вебхуков в реальном времени. Сервер парсит JSON от Telegram API и маршрутизирует команды.
 
-![Логи сервера](assets/demo-logs.jpg)
+<p align="center">
+  <img src="assets/demo-logs.jpg" width="700" title="Логи сервера в терминале">
+</p>
 
 ---
 
