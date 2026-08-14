@@ -13,7 +13,7 @@
 
 ## 📂 Проекты
 
-### 1. 🤖 [Task Manager Bot](./course-homework/task-bot)
+### 1. [Task Manager Bot](./course-homework/task-bot)
 **Telegram-бот для управления задачами.**
 
 Полноценная реализация бэкенда для бота. Сервис работает через **Webhooks**, хранит состояние в памяти и обрабатывает команды конкурентно.
