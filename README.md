@@ -11,7 +11,7 @@
 
 ---
 
-## 📂 Структура репозитория
+## Структура репозитория
 
 ```text
 go-backend-practice/
@@ -23,7 +23,7 @@ go-backend-practice/
 
 ---
 
-## 🚀 Сервисы (`services/`)
+## Сервисы (`services/`)
 
 ### 1. [Task Manager Bot](./services/task-manager-bot)
 **Telegram-бот для управления задачами.**
@@ -37,7 +37,7 @@ go-backend-practice/
 
 ---
 
-## ⚡ Практика паттернов (`patterns/`)
+## Практика паттернов (`patterns/`)
 
 Отработка прикладных сценариев для highload-нагрузок и собеседований:
 * **HTTP & Web:** Чистый `net/http` REST API, безопасная пагинация, Middleware-цепочки, Graceful Shutdown.
@@ -46,7 +46,7 @@ go-backend-practice/
 
 ---
 
-## 🛠 Ключевой фокус изучения
+## Ключевой фокус изучения
 
 * **Concurrency:** Безопасная работа с данными в многопоточной среде (Goroutines, Channels, Mutexes, Atomics, Data Race avoidance).
 * **Architecture & Clean Code:** Разделение логики на слои, обработка ошибок, отсутствие утечек горутин и памяти.
