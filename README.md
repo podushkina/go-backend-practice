@@ -6,8 +6,6 @@
 1. `services/` — курсовые домашние задания и законченные учебные мини-сервисы.
 2. `patterns/` — отработка изолированных бэкенд-паттернов, сетевых ручек (`net/http`) и Concurrency-пайплайнов для секций лайвкодинга.
 
-Здесь нет текстов заданий (в целях соблюдения авторских прав), только **мой код** и описание реализации.
-
 ![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)
 ![Status](https://img.shields.io/badge/Status-Active_Learning-green)
 
